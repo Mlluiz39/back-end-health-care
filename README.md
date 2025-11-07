@@ -532,7 +532,6 @@ Para instruções detalhadas de deploy, consulte o **[DEPLOY.md](./DEPLOY.md)**.
 - **Railway / Render** - Deploy simples com Git
 - **Docker** - Containerização completa
 - **VPS (AWS, DigitalOcean)** - Controle total
-- **Heroku** - Plataforma tradicional
 
 ### Quick Deploy (Docker)
 
@@ -581,6 +580,6 @@ MIT License - veja LICENSE para detalhes
 
 ## 📞 Suporte
 
-- 📧 Email: dev@healthcareapp.com
+- 📧 Email: mlluizpereira39@gmail.com
 - 📖 Docs: https://docs.healthcareapp.com
-- 🐛 Issues: https://github.com/user/repo/issues
+- 🐛 Issues: https://github.com/mlluiz39/back-end-health-care/issues
